@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', 'Helvetica', 'Lato', 'sans-serif';
+}
+
+.topnav{
+   
+   max-height: 90px;
+   
+   
+    
+  
+}
+
+.top-logo{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.main-heading{
+    width: 40%;
+    color: #00A4B4;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle
+    
+}
+.main-heading{
+    display: table-cell;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+.main-heading h1{
+    font-size: 1.5rem;
+    padding-top: 10px;
+   
+}
+.number{
+    color: #00A4B4;
+}
+
+ 
+    
+.mycontainer{
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.mycontainer ul li {
+    color: white;
+    padding: 8px;
+   
+}
+.mycontainer ul li:hover{
+    background-color:#ffdf00;
+    color:black
+}
+
+
+.carousel-inner img{
+ 
+    width: 100%;
+    max-height: 480px;
+    min-height: 150px;
+}
+
+
+.book-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+
+}
+
+.form-section{
+    background-color:#00A4B4; 
+    width: 100%;
+
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary{
+    margin-top: 20px;
+}
+
+.col-md-2 h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.boldlineheading{
+    box-sizing: border-box;
+}
+
+.boldlineheading{
+    text-align: center;
+    font-size: 3.5em;
+    color: #2c363e;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 37%);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.descp h1{
+   
+    font-size: 2.5em;
+    color: #2c363e;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 37%);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.gallery-title h1{
+    text-align: center;
+    font-size: 3.5em;
+    color: #2c363e;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 37%);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+.breadcrum-design{
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 1rem;
+    background-color: #dcdcdc;
+}
+
+
+.gridimage, img{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    /* border-style: none;
+    box-sizing: border-box;
+    aspect-ratio: auto 300 / 200;
+    height: 200px; */
+}
+.descimg img{
+    
+}
+
+.descp p{
+    margin: 0;
+    font-size: 1.1rem;
+    color: #525250;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.dishes{
+    background-color: #f3ce00;
+}
+
+.contentheading h1{
+    text-align: center;
+    
+    color: #2c363e;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 37%);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
